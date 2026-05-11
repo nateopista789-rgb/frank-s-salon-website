@@ -1,0 +1,48 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.custom-nav {
+  background-color: #6d214f;
+}
+
+.hero {
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+  url('https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=1200&auto=format&fit=crop');
+
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+}
+
+.hero-btn {
+  background-color: #ffb38a;
+  color: #000;
+  border: none;
+  padding: 12px 28px;
+  font-weight: bold;
+}
+
+.hero-btn:hover {
+  background-color: #ffc6a5;
+}
+
+.service-icon {
+  font-size: 50px;
+  color: #6d214f;
+}
+
+.footer-area {
+  background-color: #6d214f;
+}
+
+.page-banner {
+  background: linear-gradient(rgba(109,33,79,0.7), rgba(109,33,79,0.7)),
+  url('https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=1200&auto=format&fit=crop');
+
+  height: 40vh;
+  background-size: cover;
+  background-position: center;
+}
+
